@@ -1,6 +1,6 @@
 # Lie-course-materials
 
-Materials for the course MS-E1200: Lie groups and Lie algebras, Feb 28 - Apr 13, 2022
+Materials for the course MS-E1200: Lie groups and Lie algebras, Feb 26 - Apr 17, 2024
 
  * Lecture notes
  * Exercises
